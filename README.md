@@ -1,1 +1,1 @@
-Educational and industrial projects on machine  learning.
+Educational and industrial projects on machine  learning. ML
